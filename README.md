@@ -1,4 +1,4 @@
-```markdown
+
 # Smart Fish Feeding System (SFFS)
 
 ## Overview
@@ -89,4 +89,3 @@ The **Smart Fish Feeding System (SFFS)** is an IoT-based project designed to aut
 
 ## License
 This project is open-source and available under the MIT License.
-```
