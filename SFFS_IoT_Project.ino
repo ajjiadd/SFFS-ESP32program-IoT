@@ -12,8 +12,8 @@
 
 // WiFi & Blynk Credentials
 char auth[] = BLYNK_AUTH_TOKEN;
-char ssid[] = "POCO M3"; 
-char pass[] = "jiadjiad0"; 
+char ssid[] = ""; // WiFi/Hotspot Name
+char pass[] = ""; //WiFi/Hotspot Pass
 
 // Hardware Pins
 #define WATER_SENSOR_PIN 32  //(GPIO32)
